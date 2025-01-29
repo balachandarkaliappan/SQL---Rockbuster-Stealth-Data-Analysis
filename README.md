@@ -1,2 +1,2 @@
-# SQL-Learning
-SQL learning
+# SQL
+SQL
