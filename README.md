@@ -1,4 +1,4 @@
-Rockbuster Stealth Analysis
+**Rockbuster Stealth Analysis**
 
 **Project Summary**
 
